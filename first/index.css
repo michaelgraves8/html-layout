@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightgray;
+    width: 100%;
+    height: 100vh;
+}
+
+.top {
+    background-color: darkgray;
+    width: 100%;
+    height: 20vh; 
+}
+
+.middle {
+    background-color: white;
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
+}
+
+.bottom {
+    background-color: rgba(31, 30, 30, 0.795);
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;   
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .left {
+    background-color: lightgray;
+    width: 100px;
+    height: 1000px;
+    float: left;
+}
+
+.right {
+    background-color: lightgray;
+    width: 100px;
+    height: 1000px;
+    float: right;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* .left,.right {
+    background-color: lightgray;
+    width: 100px;
+    height: 100%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+} */
